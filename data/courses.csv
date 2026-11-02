@@ -1,0 +1,25 @@
+semester,course_code,course_name,credits,syllabus,status
+1,MA101,Engineering Mathematics 1,4,"Matrices; calculus; differential equations",Completed
+1,PH101,Engineering Physics,4,"Waves; optics; semiconductors",Completed
+1,CS101,Programming for Problem Solving,4,"C basics; arrays; pointers; functions",Completed
+2,MA201,Engineering Mathematics 2,4,"Vector calculus; Laplace transforms; Fourier series",Completed
+2,CH201,Engineering Chemistry,4,"Electrochemistry; polymers; water technology",Completed
+2,CS201,Object Oriented Programming,4,"Classes; objects; inheritance; polymorphism; Java",Completed
+3,CS301,Data Structures,4,"Stacks; queues; trees; graphs; sorting algorithms",In Progress
+3,CS302,Digital Electronics,3,"Logic gates; boolean algebra; flip-flops; counters",In Progress
+3,MA301,Discrete Mathematics,4,"Set theory; relations; graph theory; combinatorics",Completed
+4,CS401,Database Management Systems,4,"Relational model; SQL; normalization; transactions",Not Started
+4,CS402,Operating Systems,4,"Processes; CPU scheduling; memory management; file systems",Not Started
+4,CS403,Design and Analysis of Algorithms,4,"Divide and conquer; greedy; dynamic programming",Not Started
+5,CS501,Computer Networks,4,"OSI model; TCP/IP; routing; transport layer",Not Started
+5,CS502,Theory of Computation,4,"Finite automata; context-free grammars; Turing machines",Not Started
+5,CS503,Software Engineering,3,"Agile methodology; SDLC; requirements; testing",Not Started
+6,CS601,Compiler Design,4,"Lexical analysis; parsing; syntax-directed translation",Not Started
+6,CS602,Web Technologies,3,"HTML; CSS; JavaScript; REST APIs; backend frameworks",Not Started
+6,CS603,Machine Learning,4,"Regression; classification; clustering; neural networks",Not Started
+7,CS701,Cloud Computing,3,"Virtualization; AWS/Azure; containerization; Kubernetes",Not Started
+7,CS702,Information and Cyber Security,3,"Cryptography; network security; malware analysis",Not Started
+7,CS703,Project Work Phase 1,4,"Problem statement; literature review; system architecture",Not Started
+8,CS801,Project Work Phase 2,12,"Implementation; testing; final evaluation; paper publication",Not Started
+8,CS802,Professional Ethics,3,"Engineering ethics; intellectual property rights; cyber laws",Not Started
+8,CS803,Internship,3,"Industry training; technical report; viva voce",Not Started
